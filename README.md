@@ -1,0 +1,1 @@
+# mage-compressor-privacy
